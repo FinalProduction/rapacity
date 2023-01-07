@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "rapacity",
+  "version": "${version}",
+  "name": "Rapacity",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/rapacity/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.github.finalproduction.rapacity.client.RapacityClient"
+    ],
+    "main": [
+      "net.github.finalproduction.rapacity.Rapacity"
+    ]
+  },
+  "mixins": [
+    "rapacity.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.12",
+    "fabric": "*",
+    "minecraft": "1.19.2"
+  }
+}

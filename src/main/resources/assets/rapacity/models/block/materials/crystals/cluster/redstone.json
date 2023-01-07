@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "rapacity:block/materials/crystals/cluster/redstone"
+  },
+  "render_type": "cutout"
+}

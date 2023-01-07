@@ -1,0 +1,11 @@
+{
+  "parent": "rapacity:item/materials/crystals/bud/redstone",
+  "textures": {
+    "layer0": "rapacity:block/materials/crystals/large/redstone"
+  },
+  "display": {
+    "fixed": {
+      "translation": [ 0, 4, 0 ]
+    }
+  }
+}

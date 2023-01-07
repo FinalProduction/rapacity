@@ -1,0 +1,11 @@
+{
+  "parent": "rapacity:item/materials/crystals/bud/glowstone",
+  "textures": {
+    "layer0": "rapacity:block/materials/crystals/medium/glowstone"
+  },
+  "display": {
+    "fixed": {
+      "translation": [ 0, 6, 0 ]
+    }
+  }
+}

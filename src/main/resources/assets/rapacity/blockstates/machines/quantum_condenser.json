@@ -1,0 +1,8 @@
+{
+  "variants": {
+      "facing=north": { "model": "rapacity:block/machines/quantum_condenser" },
+      "facing=east": { "model": "rapacity:block/machines/quantum_condenser" , "y" : 90 },
+      "facing=south": { "model": "rapacity:block/machines/quantum_condenser" , "y" : 180 },
+      "facing=west": { "model": "rapacity:block/machines/quantum_condenser" , "y" : 270 }
+    }
+}

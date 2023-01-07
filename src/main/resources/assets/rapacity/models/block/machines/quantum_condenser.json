@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "rapacity:block/machines/machine_bottom_dark",
+    "east": "rapacity:block/machines/machine_side_dark",
+    "north": "rapacity:block/machines/machine_front_on",
+    "particle": "rapacity:block/machines/machine_back_dark",
+    "south": "rapacity:block/machines/machine_back_dark",
+    "up": "rapacity:block/machines/machine_top_dark",
+    "west": "rapacity:block/machines/machine_side_dark"
+  }
+}

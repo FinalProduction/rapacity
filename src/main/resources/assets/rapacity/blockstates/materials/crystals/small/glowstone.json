@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "rapacity:block/materials/crystals/small/glowstone",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "rapacity:block/materials/crystals/small/glowstone",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "rapacity:block/materials/crystals/small/glowstone",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "rapacity:block/materials/crystals/small/glowstone",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "rapacity:block/materials/crystals/small/glowstone"
+    },
+    "facing=west": {
+      "model": "rapacity:block/materials/crystals/small/glowstone",
+      "x": 90,
+      "y": 270
+    }
+  }
+}
